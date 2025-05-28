@@ -1,20 +1,21 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# Bloco a Bloco: Dominando a Arte dos Mods no Minecraft 1.20.1 🎮
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Este e-book completo e detalhado guia o leitor em toda a jornada de criação de mods para Minecraft 1.20.1, cobrindo desde a configuração do ambiente de desenvolvimento até a publicação do mod, com exemplos práticos e explicações claras.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para elaboração do roteiro e conteúdo técnico;
+- Ferramentas Java e Minecraft Forge para desenvolvimento de mods;
+- Ambiente de desenvolvimento IntelliJ IDEA / Eclipse para codificação e testes;
+- Sistema de build **Gradle** para gerenciamento do projeto.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+Utilizei o ChatGPT para estruturar e aprofundar os conceitos técnicos essenciais para modding em Minecraft, garantindo clareza e organização do conteúdo. As etapas foram divididas para contemplar tanto iniciantes quanto desenvolvedores experientes, incluindo boas práticas e dicas valiosas para o deploy final do mod.
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+O e-book proporciona um aprendizado prático e acessível, capacitando os leitores a criar mods complexos e funcionais para Minecraft 1.20.1, além de facilitar a entrada deles na comunidade de modding com conhecimento sólido e atualizado.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://chatgpt.com/canvas/shared/68377397c9e48191b00c32e699e14b86)
 
 ## 💭 Reflexão
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+Criar este e-book foi uma oportunidade incrível de unir tecnologia e ensino, explorando como IAs podem potencializar a criação de conteúdo técnico e ajudar desenvolvedores a transformarem suas ideias em realidade dentro do universo Minecraft.
